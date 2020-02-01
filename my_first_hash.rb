@@ -3,8 +3,7 @@ my_hash= {
   "other animal" => "puffin"
 }
 
-  
-end
+
 
 
 def shipping_manifest
