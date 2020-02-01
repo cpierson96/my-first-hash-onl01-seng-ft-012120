@@ -1,4 +1,4 @@
-def my_hash = {"animal" => "penguin", "other animal" => "puffin"}
+ my_hash = {"animal" => "penguin", "other animal" => "puffin"}
 
 
 
